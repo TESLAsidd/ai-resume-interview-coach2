@@ -53,7 +53,7 @@ resume-coach/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/TESLAsidd/ai-resume-interview-coach2.git
 
 cd resume-coach
 
@@ -64,7 +64,7 @@ streamlit run streamlit_app.py
 
 ## Live Demo
 
-Add your Streamlit Cloud URL here.
+https://ai-resume-interview-coach-2.streamlit.app/
 
 ## Author
 
