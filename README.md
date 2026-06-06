@@ -69,3 +69,25 @@ https://ai-resume-interview-coach-2.streamlit.app/
 ## Author
 
 Siddharth Patel
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### ATS Analysis
+
+![ATS Analysis](screenshots/ats_analysis.png)
+
+### Interview Questions
+
+![Interview Questions](screenshots/interview_questions.png)
+
+### Resume Improvements
+
+![Resume Improvements](screenshots/resume_improvements.png)
+
+### Cover Letter
+
+![Cover Letter](screenshots/cover_letter.png)
